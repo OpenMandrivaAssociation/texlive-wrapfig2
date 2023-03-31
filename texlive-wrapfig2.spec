@@ -1,6 +1,6 @@
 Name:		texlive-wrapfig2
 Version:	62039
-Release:	1
+Release:	2
 Summary:	Wrap text around figures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wrapfig2
