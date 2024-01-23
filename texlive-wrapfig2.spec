@@ -1,5 +1,5 @@
 Name:		texlive-wrapfig2
-Version:	68164
+Version:	69513
 Release:	1
 Summary:	Wrap text around figures
 Group:		Publishing
