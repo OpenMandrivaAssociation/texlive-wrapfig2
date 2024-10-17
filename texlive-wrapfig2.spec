@@ -3,7 +3,7 @@ Version:	70838
 Release:	1
 Summary:	Wrap text around figures
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wrapfig2
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wrapfig2
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wrapfig2.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wrapfig2.doc.r%{version}.tar.xz
